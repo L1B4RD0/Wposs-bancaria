@@ -8,4 +8,4 @@ Tecnologias utilizadad
 - JS para manejar contenido en las paginas
 - CSS para dar estilos
 - plantillas de bootstrap
--
+
